@@ -117,7 +117,7 @@ Bu komut ile tüm görevler, developer'ların kapasitesine göre dağıtılacakt
 
 ## Geliştirme Ortamı Gereksinimleri
 
-- PHP 8.0+
+PHP 8.0+
 - Composer
 - Node.js & NPM
 - MySQL veya PostgreSQL
@@ -128,5 +128,10 @@ Bu komut ile tüm görevler, developer'ların kapasitesine göre dağıtılacakt
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
 
+## Mock Api Provider's
+ - https://run.mocky.io/v3/e1316a2c-8802-4023-bd59-80e9ba2e732d
+ - https://run.mocky.io/v3/8adf9f37-560f-4aec-b6b1-0e54c6c9ee1a
+  
+  
 ![alt text](image.png)
 ![alt text](image-1.png)
